@@ -97,3 +97,22 @@ The raw dataset contained several issues that were resolved before analysis:
 ## 📁 Dataset
 [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) — 
 Real transaction data from a UK-based online retailer.
+
+---
+
+## 📸 Query Results
+
+### Overall Summary
+![Summary](images/01_summary.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue](images/02_monthly_revenue.png)
+
+### Top 10 Customers
+![Top Customers](images/03_top_customers.png)
+
+### Top 10 Products
+![Top Products](images/04_top_products.png)
+
+### Revenue by Country
+![Revenue by Country](images/05_revenue_by_country.png)
